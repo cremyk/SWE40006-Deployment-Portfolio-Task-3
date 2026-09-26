@@ -1,0 +1,35 @@
+[
+    {
+        "id": "LF-101",
+        "title": "Student ID Card",
+        "category": "Cards & IDs",
+        "location": "Library ground floor turnstiles",
+        "type": "found",
+        "date": "2026-09-24",
+        "description": "Left near the scanning barrier. Name partly visible on the front.",
+        "reporter": "Campus Security Desk",
+        "status": "posted"
+    },
+    {
+        "id": "LF-102",
+        "title": "Scientific Calculator, fx-570EX",
+        "category": "Electronics",
+        "location": "Engineering Block, Lab 204",
+        "type": "lost",
+        "date": "2026-09-25",
+        "description": "Black casing, initials scratched into the battery cover.",
+        "reporter": "Alex Tan",
+        "status": "posted"
+    },
+    {
+        "id": "LF-103",
+        "title": "Steel Water Bottle",
+        "category": "Personal Items",
+        "location": "Student Pavilion, outside bench",
+        "type": "found",
+        "date": "2026-09-26",
+        "description": "Silver insulated bottle, a few sticker decals on the side.",
+        "reporter": "Sarah Lee",
+        "status": "returned"
+    }
+]
